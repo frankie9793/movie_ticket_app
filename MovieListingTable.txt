@@ -1,0 +1,9 @@
+1|Shutter Island |IDK|Leonardo Dicaprio|NC16|Thriller|ComingSoon|Thriller movie|NORMAL
+2|Wolf Of Wallstreet|IDK|Leonardo Dicaprio|M18|Documentary|NowShowing|Documentary|NORMAL
+3|asdf|asdf|asdf|G|,Biography,Comedy|NowShowing|asdf|NORMAL
+4|asdfsdfa|aasdf|asdf|G|,Action,Adventure,Animation|NowShowing|asdf|NORMAL
+5|asdfasdf|asdf|asdf|G|Romance,War,Western|Preview|asdf|_3D
+6|Angrier birds|idk|idk|NC16|Action|NowShowing|j;kl|NORMAL
+7|asdfffff|asdf|asdf|G|Action|ComingSoon|zxc|_3D
+8|Thor|Steven|actor,actress|NC16|Action|NowShowing|asdadad|NORMAL
+9|Justice League|Jessie|actor3,actor4|NC16|action |NowShowing|another action movie|NORMAL

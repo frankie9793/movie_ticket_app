@@ -1,0 +1,6 @@
+Thor Ragnarok|steven|chris |action comedy|action movie|PG13|NowShowing
+Guardians of Galaxy|steven spielberg|chrostopher|comedy |movie|NC16|NowShowing
+Thor Ragnarok|steven|chris|action comedy|a movie directed by |PG13|NowShowing
+Thor Ragnarok |asdfa|asdfa|asdf|asdfa|G|NowShowing
+Thor Ragnarok|steven|asdfasd|asdfadsf|asdfadsf|NC16|NowShowing
+thor |asdf|asdf|action comedy|adf|NC16|NowShowing

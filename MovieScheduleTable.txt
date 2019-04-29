@@ -1,0 +1,16 @@
+1|12/12/17|TUE|13:00|Cathay AMK HUB|1|102|Normal|Thor
+2|13/12/18|THURS|04:00|Cathay AMK HUB|1|102|Normal|Thor
+3|11/12/17|MON|08:00|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+4|12/12/17|TUE|01:00|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+5|13/12/17|WED|10:00|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+6|12/15/17|MON|08:00|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+7|11/12/18|TUE|01:11|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+8|12/12/18|WED|07:00|Cathay AMK HUB|1|101|PlatinumSuite|Thor
+9|11/12/17|MON|08:00|Cathay JEM|3|305|Normal|Thor
+10|12/12/17|TUE|23:59|Cathay JEM|3|302|Normal|Thor
+11|13/12/17|WED|05:30|Cathay JEM|3|302|Normal|Thor
+12|12/12/17|TUE|08:00|Cathay JEM|3|301|PlatinumSuite|Thor
+13|12/12/17|TUE|08:00|Cathay JEM|3|301|PlatinumSuite|Thor
+14|12/12/17|TUE|10:00|Cathay JEM|3|301|PlatinumSuite|Thor
+15|12/13/17|FRI|20:00|Cathay JEM|3|301|PlatinumSuite|Thor
+16|16/11/17|THURS|18:00|Cathay JEM|3|302|Normal|Wolf Of Wallstreet

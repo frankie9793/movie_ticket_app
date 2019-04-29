@@ -1,0 +1,15 @@
+1|1|Cathay AMK HUB|101|PlatinumSuite
+2|1|Cathay AMK HUB|102|Normal
+3|1|Cathay AMK HUB|103|Normal
+4|1|Cathay AMK HUB|104|Normal
+5|1|Cathay AMK HUB|105|Normal
+6|2|Cathay Cineleisure|201|PlatinumSuite
+7|2|Cathay Cineleisure|202|Normal
+8|2|Cathay Cineleisure|203|Normal
+9|2|Cathay Cineleisure|204|Normal 
+10|2|Cathay Cineleisure|205|Normal
+11|3|Cathay JEM|301|PlatinumSuite
+12|3|Cathay JEM|302|Normal
+13|3|Cathay JEM|303|Normal
+14|3|Cathay JEM|304|Normal 
+15|3|Cathay JEM|305|Normal
